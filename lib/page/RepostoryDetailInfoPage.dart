@@ -1,17 +1,17 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/model/RepoCommit.dart';
-import 'package:gsy_github_app_flutter/common/model/Repository.dart';
-import 'package:gsy_github_app_flutter/common/utils/EventUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/page/RepositoryDetailPage.dart';
-import 'package:gsy_github_app_flutter/widget/EventItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCommonOptionWidget.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
-import 'package:gsy_github_app_flutter/widget/ReposHeaderItem.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/model/RepoCommit.dart';
+import 'package:shise_app_flutter/common/model/Repository.dart';
+import 'package:shise_app_flutter/common/utils/EventUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/page/RepositoryDetailPage.dart';
+import 'package:shise_app_flutter/widget/EventItem.dart';
+import 'package:shise_app_flutter/widget/GSYCommonOptionWidget.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/widget/ReposHeaderItem.dart';
 
 /**
  * 仓库详情动态信息页面

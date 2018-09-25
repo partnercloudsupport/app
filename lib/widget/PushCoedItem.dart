@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/model/CommitFile.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCardItem.dart';
+import 'package:shise_app_flutter/common/model/CommitFile.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/widget/GSYCardItem.dart';
 
 /**
  * 推送修改代码Item

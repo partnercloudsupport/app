@@ -3,15 +3,15 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/redux/GSYState.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCardItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
-import 'package:gsy_github_app_flutter/widget/ReposItem.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/redux/GSYState.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYCardItem.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/widget/ReposItem.dart';
 import 'package:redux/redux.dart';
 
 /**

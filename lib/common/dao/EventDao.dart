@@ -1,14 +1,14 @@
 import 'dart:convert';
 
-import 'package:gsy_github_app_flutter/common/ab/provider/event/ReceivedEventDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/ab/provider/event/UserEventDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/dao/DaoResult.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/net/Address.dart';
-import 'package:gsy_github_app_flutter/common/net/Api.dart';
-import 'package:gsy_github_app_flutter/common/redux/EventRedux.dart';
-import 'package:gsy_github_app_flutter/common/redux/GSYState.dart';
+import 'package:shise_app_flutter/common/ab/provider/event/ReceivedEventDbProvider.dart';
+import 'package:shise_app_flutter/common/ab/provider/event/UserEventDbProvider.dart';
+import 'package:shise_app_flutter/common/dao/DaoResult.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/net/Address.dart';
+import 'package:shise_app_flutter/common/net/Api.dart';
+import 'package:shise_app_flutter/common/redux/EventRedux.dart';
+import 'package:shise_app_flutter/common/redux/GSYState.dart';
 import 'package:redux/redux.dart';
 
 class EventDao {

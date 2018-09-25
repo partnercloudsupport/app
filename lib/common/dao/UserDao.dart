@@ -2,21 +2,21 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:gsy_github_app_flutter/common/ab/provider/user/UserFollowedDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/ab/provider/user/UserFollowerDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/ab/provider/user/UserInfoDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/ab/provider/user/UserOrgsDbProvider.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/config/ignoreConfig.dart';
-import 'package:gsy_github_app_flutter/common/dao/DaoResult.dart';
-import 'package:gsy_github_app_flutter/common/local/LocalStorage.dart';
-import 'package:gsy_github_app_flutter/common/model/Notification.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/model/UserOrg.dart';
-import 'package:gsy_github_app_flutter/common/net/Address.dart';
-import 'package:gsy_github_app_flutter/common/net/Api.dart';
-import 'package:gsy_github_app_flutter/common/redux/UserRedux.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/ab/provider/user/UserFollowedDbProvider.dart';
+import 'package:shise_app_flutter/common/ab/provider/user/UserFollowerDbProvider.dart';
+import 'package:shise_app_flutter/common/ab/provider/user/UserInfoDbProvider.dart';
+import 'package:shise_app_flutter/common/ab/provider/user/UserOrgsDbProvider.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/config/ignoreConfig.dart';
+import 'package:shise_app_flutter/common/dao/DaoResult.dart';
+import 'package:shise_app_flutter/common/local/LocalStorage.dart';
+import 'package:shise_app_flutter/common/model/Notification.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/model/UserOrg.dart';
+import 'package:shise_app_flutter/common/net/Address.dart';
+import 'package:shise_app_flutter/common/net/Api.dart';
+import 'package:shise_app_flutter/common/redux/UserRedux.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
 import 'package:redux/redux.dart';
 
 class UserDao {

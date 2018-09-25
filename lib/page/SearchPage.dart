@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
-import 'package:gsy_github_app_flutter/widget/GSYSearchDrawer.dart';
-import 'package:gsy_github_app_flutter/widget/GSYSearchInputWidget.dart';
-import 'package:gsy_github_app_flutter/widget/GSYSelectItemWidget.dart';
-import 'package:gsy_github_app_flutter/widget/ReposItem.dart';
-import 'package:gsy_github_app_flutter/widget/UserItem.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/widget/GSYSearchDrawer.dart';
+import 'package:shise_app_flutter/widget/GSYSearchInputWidget.dart';
+import 'package:shise_app_flutter/widget/GSYSelectItemWidget.dart';
+import 'package:shise_app_flutter/widget/ReposItem.dart';
+import 'package:shise_app_flutter/widget/UserItem.dart';
 
 /**
  * Created by guoshuyu

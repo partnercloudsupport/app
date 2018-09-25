@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
 
 /**
  * 搜索输入框

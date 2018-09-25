@@ -1,4 +1,4 @@
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
 import 'package:redux/redux.dart';
 
 /**

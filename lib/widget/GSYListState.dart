@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
 
 /**
  * 上下拉刷新列表的通用State

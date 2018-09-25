@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:gsy_github_app_flutter/common/localization/DefaultLocalizations.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/model/UserOrg.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCardItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYIConText.dart';
-import 'package:gsy_github_app_flutter/widget/GSYUserIconWidget.dart';
+import 'package:shise_app_flutter/common/localization/DefaultLocalizations.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/model/UserOrg.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYCardItem.dart';
+import 'package:shise_app_flutter/widget/GSYIConText.dart';
+import 'package:shise_app_flutter/widget/GSYUserIconWidget.dart';
 
 /**
  * 用户详情头部

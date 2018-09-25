@@ -1,7 +1,7 @@
-import 'package:gsy_github_app_flutter/common/model/Issue.dart';
-import 'package:gsy_github_app_flutter/common/model/IssueEvent.dart';
-import 'package:gsy_github_app_flutter/common/model/PushEventCommit.dart';
-import 'package:gsy_github_app_flutter/common/model/Release.dart';
+import 'package:shise_app_flutter/common/model/Issue.dart';
+import 'package:shise_app_flutter/common/model/IssueEvent.dart';
+import 'package:shise_app_flutter/common/model/PushEventCommit.dart';
+import 'package:shise_app_flutter/common/model/Release.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 /**

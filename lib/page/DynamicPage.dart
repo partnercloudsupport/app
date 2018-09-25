@@ -2,15 +2,15 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/dao/EventDao.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/redux/GSYState.dart';
-import 'package:gsy_github_app_flutter/common/utils/EventUtils.dart';
-import 'package:gsy_github_app_flutter/widget/EventItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/dao/EventDao.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/redux/GSYState.dart';
+import 'package:shise_app_flutter/common/utils/EventUtils.dart';
+import 'package:shise_app_flutter/widget/EventItem.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
 import 'package:redux/redux.dart';
 
 /**

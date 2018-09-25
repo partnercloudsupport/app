@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/model/TrendingRepoModel.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/redux/UserRedux.dart';
-import 'package:gsy_github_app_flutter/common/redux/EventRedux.dart';
-import 'package:gsy_github_app_flutter/common/redux/TrendRedux.dart';
-import 'package:gsy_github_app_flutter/common/redux/ThemeRedux.dart';
-import 'package:gsy_github_app_flutter/common/redux/LocaleRedux.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/TrendingRepoModel.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/redux/UserRedux.dart';
+import 'package:shise_app_flutter/common/redux/EventRedux.dart';
+import 'package:shise_app_flutter/common/redux/TrendRedux.dart';
+import 'package:shise_app_flutter/common/redux/ThemeRedux.dart';
+import 'package:shise_app_flutter/common/redux/LocaleRedux.dart';
 
 /**
  * Redux全局State

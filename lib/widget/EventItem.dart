@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/model/RepoCommit.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/EventUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCardItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYUserIconWidget.dart';
-import 'package:gsy_github_app_flutter/common/model/Notification.dart' as Model;
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/RepoCommit.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/EventUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYCardItem.dart';
+import 'package:shise_app_flutter/widget/GSYUserIconWidget.dart';
+import 'package:shise_app_flutter/common/model/Notification.dart' as Model;
 
 /**
  * 事件Item

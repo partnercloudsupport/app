@@ -2,21 +2,21 @@ import 'dart:async';
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/page/CodeDetailPage.dart';
-import 'package:gsy_github_app_flutter/page/CodeDetailPageWeb.dart';
-import 'package:gsy_github_app_flutter/page/CommonListPage.dart';
-import 'package:gsy_github_app_flutter/page/GSYWebView.dart';
-import 'package:gsy_github_app_flutter/page/HomePage.dart';
-import 'package:gsy_github_app_flutter/page/IssueDetailPage.dart';
-import 'package:gsy_github_app_flutter/page/LoginPage.dart';
-import 'package:gsy_github_app_flutter/page/NotifyPage.dart';
-import 'package:gsy_github_app_flutter/page/PersonPage.dart';
-import 'package:gsy_github_app_flutter/page/PhotoViewPage.dart';
-import 'package:gsy_github_app_flutter/page/PushDetailPage.dart';
-import 'package:gsy_github_app_flutter/page/ReleasePage.dart';
-import 'package:gsy_github_app_flutter/page/RepositoryDetailPage.dart';
-import 'package:gsy_github_app_flutter/page/SearchPage.dart';
-import 'package:gsy_github_app_flutter/page/UserProfilePage.dart';
+import 'package:shise_app_flutter/page/CodeDetailPage.dart';
+import 'package:shise_app_flutter/page/CodeDetailPageWeb.dart';
+import 'package:shise_app_flutter/page/CommonListPage.dart';
+import 'package:shise_app_flutter/page/GSYWebView.dart';
+import 'package:shise_app_flutter/page/HomePage.dart';
+import 'package:shise_app_flutter/page/IssueDetailPage.dart';
+import 'package:shise_app_flutter/page/LoginPage.dart';
+import 'package:shise_app_flutter/page/NotifyPage.dart';
+import 'package:shise_app_flutter/page/PersonPage.dart';
+import 'package:shise_app_flutter/page/PhotoViewPage.dart';
+import 'package:shise_app_flutter/page/PushDetailPage.dart';
+import 'package:shise_app_flutter/page/ReleasePage.dart';
+import 'package:shise_app_flutter/page/RepositoryDetailPage.dart';
+import 'package:shise_app_flutter/page/SearchPage.dart';
+import 'package:shise_app_flutter/page/UserProfilePage.dart';
 /**
  * 导航栏
  * Created by guoshuyu

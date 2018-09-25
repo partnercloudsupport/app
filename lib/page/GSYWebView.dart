@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCommonOptionWidget.dart';
+import 'package:shise_app_flutter/widget/GSYCommonOptionWidget.dart';
 
 /**
  * webview版本

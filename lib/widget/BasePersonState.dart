@@ -1,16 +1,16 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/dao/UserDao.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/model/UserOrg.dart';
-import 'package:gsy_github_app_flutter/common/utils/EventUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/EventItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/UserHeader.dart';
-import 'package:gsy_github_app_flutter/widget/UserItem.dart';
+import 'package:shise_app_flutter/common/dao/UserDao.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/model/UserOrg.dart';
+import 'package:shise_app_flutter/common/utils/EventUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/EventItem.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/UserHeader.dart';
+import 'package:shise_app_flutter/widget/UserItem.dart';
 
 /**
  * Created by guoshuyu

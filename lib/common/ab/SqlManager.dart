@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:gsy_github_app_flutter/common/dao/UserDao.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/dao/UserDao.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
 import 'package:sqflite/sqflite.dart';
 
 /**
@@ -14,7 +14,7 @@ import 'package:sqflite/sqflite.dart';
 class SqlManager {
   static const _VERSION = 1;
 
-  static const _NAME = "gsy_github_app_flutter.db";
+  static const _NAME = "shise_app_flutter.db";
 
   static Database _database;
 

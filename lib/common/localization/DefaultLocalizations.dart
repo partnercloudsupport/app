@@ -1,9 +1,9 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStringBase.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStringEn.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStringZh.dart';
+import 'package:shise_app_flutter/common/style/GSYStringBase.dart';
+import 'package:shise_app_flutter/common/style/GSYStringEn.dart';
+import 'package:shise_app_flutter/common/style/GSYStringZh.dart';
 
 ///自定义多语言实现
 class GSYLocalizations {

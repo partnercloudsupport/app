@@ -2,8 +2,8 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:gsy_github_app_flutter/common/ab/SqlProvider.dart';
-import 'package:gsy_github_app_flutter/common/model/TrendingRepoModel.dart';
+import 'package:shise_app_flutter/common/ab/SqlProvider.dart';
+import 'package:shise_app_flutter/common/model/TrendingRepoModel.dart';
 import 'package:sqflite/sqflite.dart';
 
 /**

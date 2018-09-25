@@ -4,7 +4,7 @@ import 'dart:async';
  * Created by guoshuyu
  * Date: 2018-08-03
  */
-import 'package:gsy_github_app_flutter/common/ab/SqlManager.dart';
+import 'package:shise_app_flutter/common/ab/SqlManager.dart';
 import 'package:meta/meta.dart';
 import 'package:sqflite/sqflite.dart';
 

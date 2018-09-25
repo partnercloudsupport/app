@@ -5,18 +5,18 @@ import 'package:flutter/material.dart';
 import 'package:event_bus/event_bus.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:gsy_github_app_flutter/common/event/HttpErrorEvent.dart';
-import 'package:gsy_github_app_flutter/common/localization/GSYLocalizationsDelegate.dart';
-import 'package:gsy_github_app_flutter/common/redux/GSYState.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/page/HomePage.dart';
-import 'package:gsy_github_app_flutter/page/LoginPage.dart';
-import 'package:gsy_github_app_flutter/page/WelcomePage.dart';
+import 'package:shise_app_flutter/common/event/HttpErrorEvent.dart';
+import 'package:shise_app_flutter/common/localization/GSYLocalizationsDelegate.dart';
+import 'package:shise_app_flutter/common/redux/GSYState.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/page/HomePage.dart';
+import 'package:shise_app_flutter/page/LoginPage.dart';
+import 'package:shise_app_flutter/page/WelcomePage.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'package:redux/redux.dart';
-import 'package:gsy_github_app_flutter/common/net/Code.dart';
+import 'package:shise_app_flutter/common/net/Code.dart';
 
 void main() {
   runApp(new FlutterReduxApp());

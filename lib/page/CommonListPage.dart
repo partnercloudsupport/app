@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/dao/UserDao.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
-import 'package:gsy_github_app_flutter/widget/ReposItem.dart';
-import 'package:gsy_github_app_flutter/widget/UserItem.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/dao/UserDao.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/widget/ReposItem.dart';
+import 'package:shise_app_flutter/widget/UserItem.dart';
 
 /**
  * 通用list

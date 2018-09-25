@@ -1,20 +1,20 @@
 import 'package:get_version/get_version.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:gsy_github_app_flutter/common/ab/SqlManager.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/dao/EventDao.dart';
-import 'package:gsy_github_app_flutter/common/dao/IssueDao.dart';
-import 'package:gsy_github_app_flutter/common/dao/ReposDao.dart';
-import 'package:gsy_github_app_flutter/common/dao/UserDao.dart';
-import 'package:gsy_github_app_flutter/common/local/LocalStorage.dart';
-import 'package:gsy_github_app_flutter/common/localization/DefaultLocalizations.dart';
-import 'package:gsy_github_app_flutter/common/model/User.dart';
-import 'package:gsy_github_app_flutter/common/redux/GSYState.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYFlexButton.dart';
+import 'package:shise_app_flutter/common/ab/SqlManager.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/dao/EventDao.dart';
+import 'package:shise_app_flutter/common/dao/IssueDao.dart';
+import 'package:shise_app_flutter/common/dao/ReposDao.dart';
+import 'package:shise_app_flutter/common/dao/UserDao.dart';
+import 'package:shise_app_flutter/common/local/LocalStorage.dart';
+import 'package:shise_app_flutter/common/localization/DefaultLocalizations.dart';
+import 'package:shise_app_flutter/common/model/User.dart';
+import 'package:shise_app_flutter/common/redux/GSYState.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYFlexButton.dart';
 import 'package:redux/redux.dart';
 
 /**

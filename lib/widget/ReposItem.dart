@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/model/Repository.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/GSYCardItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYIConText.dart';
-import 'package:gsy_github_app_flutter/widget/GSYUserIconWidget.dart';
+import 'package:shise_app_flutter/common/model/Repository.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/GSYCardItem.dart';
+import 'package:shise_app_flutter/widget/GSYIConText.dart';
+import 'package:shise_app_flutter/widget/GSYUserIconWidget.dart';
 
 /**
  * 仓库Item

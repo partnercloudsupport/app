@@ -1,4 +1,4 @@
-import 'package:gsy_github_app_flutter/common/style/GSYStringBase.dart';
+import 'package:shise_app_flutter/common/style/GSYStringBase.dart';
 
 /**
  * Created by guoshuyu

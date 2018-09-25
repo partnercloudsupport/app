@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/model/Event.dart';
-import 'package:gsy_github_app_flutter/common/model/PushEventCommit.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/common/model/Event.dart';
+import 'package:shise_app_flutter/common/model/PushEventCommit.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
 
 /**
  * 事件逻辑

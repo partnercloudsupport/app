@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/test/DemoItem.dart';
+import 'package:shise_app_flutter/test/DemoItem.dart';
 
 class DemoPage extends StatefulWidget {
   @override

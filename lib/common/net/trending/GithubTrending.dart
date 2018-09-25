@@ -1,10 +1,10 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:gsy_github_app_flutter/common/model/TrendingRepoModel.dart';
-import 'package:gsy_github_app_flutter/common/net/Api.dart';
-import 'package:gsy_github_app_flutter/common/net/Code.dart';
-import 'package:gsy_github_app_flutter/common/net/ResultData.dart';
+import 'package:shise_app_flutter/common/model/TrendingRepoModel.dart';
+import 'package:shise_app_flutter/common/net/Api.dart';
+import 'package:shise_app_flutter/common/net/Code.dart';
+import 'package:shise_app_flutter/common/net/ResultData.dart';
 
 /**
  * 趋势数据解析

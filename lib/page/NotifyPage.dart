@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import 'package:gsy_github_app_flutter/common/dao/UserDao.dart';
-import 'package:gsy_github_app_flutter/common/style/GSYStyle.dart';
-import 'package:gsy_github_app_flutter/common/utils/CommonUtils.dart';
-import 'package:gsy_github_app_flutter/common/utils/NavigatorUtils.dart';
-import 'package:gsy_github_app_flutter/widget/EventItem.dart';
-import 'package:gsy_github_app_flutter/widget/GSYListState.dart';
-import 'package:gsy_github_app_flutter/widget/GSYPullLoadWidget.dart';
-import 'package:gsy_github_app_flutter/widget/GSYSelectItemWidget.dart';
-import 'package:gsy_github_app_flutter/widget/GSYTitleBar.dart';
+import 'package:shise_app_flutter/common/dao/UserDao.dart';
+import 'package:shise_app_flutter/common/style/GSYStyle.dart';
+import 'package:shise_app_flutter/common/utils/CommonUtils.dart';
+import 'package:shise_app_flutter/common/utils/NavigatorUtils.dart';
+import 'package:shise_app_flutter/widget/EventItem.dart';
+import 'package:shise_app_flutter/widget/GSYListState.dart';
+import 'package:shise_app_flutter/widget/GSYPullLoadWidget.dart';
+import 'package:shise_app_flutter/widget/GSYSelectItemWidget.dart';
+import 'package:shise_app_flutter/widget/GSYTitleBar.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:gsy_github_app_flutter/common/model/Notification.dart' as Model;
+import 'package:shise_app_flutter/common/model/Notification.dart' as Model;
 
 /**
  * 通知消息

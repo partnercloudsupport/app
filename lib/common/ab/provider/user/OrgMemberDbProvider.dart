@@ -1,4 +1,4 @@
-import 'package:gsy_github_app_flutter/common/ab/SqlProvider.dart';
+import 'package:shise_app_flutter/common/ab/SqlProvider.dart';
 
 /**
  * 用户关注表

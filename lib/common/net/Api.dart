@@ -1,11 +1,11 @@
 import 'package:dio/dio.dart';
-import 'package:gsy_github_app_flutter/common/net/Code.dart';
+import 'package:shise_app_flutter/common/net/Code.dart';
 
 import 'dart:collection';
 
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/local/LocalStorage.dart';
-import 'package:gsy_github_app_flutter/common/net/ResultData.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/local/LocalStorage.dart';
+import 'package:shise_app_flutter/common/net/ResultData.dart';
 import 'package:connectivity/connectivity.dart';
 
 ///http请求

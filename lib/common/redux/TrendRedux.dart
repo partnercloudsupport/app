@@ -1,4 +1,4 @@
-import 'package:gsy_github_app_flutter/common/model/TrendingRepoModel.dart';
+import 'package:shise_app_flutter/common/model/TrendingRepoModel.dart';
 import 'package:redux/redux.dart';
 
 /**

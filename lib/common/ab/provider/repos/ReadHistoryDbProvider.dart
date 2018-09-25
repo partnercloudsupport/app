@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:gsy_github_app_flutter/common/ab/SqlProvider.dart';
-import 'package:gsy_github_app_flutter/common/config/Config.dart';
-import 'package:gsy_github_app_flutter/common/model/Repository.dart';
+import 'package:shise_app_flutter/common/ab/SqlProvider.dart';
+import 'package:shise_app_flutter/common/config/Config.dart';
+import 'package:shise_app_flutter/common/model/Repository.dart';
 import 'package:sqflite/sqflite.dart';
 
 /**
